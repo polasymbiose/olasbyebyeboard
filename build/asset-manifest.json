@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/static/css/main.46b67600.chunk.css",
+    "main.js": "/static/js/main.6f048644.chunk.js",
+    "main.js.map": "/static/js/main.6f048644.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.560b8e60.js",
+    "runtime-main.js.map": "/static/js/runtime-main.560b8e60.js.map",
+    "static/js/2.3bb0adda.chunk.js": "/static/js/2.3bb0adda.chunk.js",
+    "static/js/2.3bb0adda.chunk.js.map": "/static/js/2.3bb0adda.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.28cb68e0bc433a0e30b69d979b29fa7e.js": "/precache-manifest.28cb68e0bc433a0e30b69d979b29fa7e.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.46b67600.chunk.css.map": "/static/css/main.46b67600.chunk.css.map",
+    "static/media/boo.png": "/static/media/boo.02583e29.png",
+    "static/media/boo.mp3": "/static/media/boo.fa8147dc.mp3",
+    "static/media/brainfuck.png": "/static/media/brainfuck.89fb2704.png",
+    "static/media/brainfuck.mp3": "/static/media/brainfuck.950f5c28.mp3",
+    "static/media/lol.png": "/static/media/lol.ecb12f0d.png",
+    "static/media/lol.mp3": "/static/media/lol.f04333bc.mp3",
+    "static/media/love.mp3": "/static/media/love.19b9e153.mp3",
+    "static/media/love.png": "/static/media/love.95364617.png",
+    "static/media/thinking.png": "/static/media/thinking.69d2b71f.png",
+    "static/media/thinking.mp3": "/static/media/thinking.6fa45fe5.mp3",
+    "static/media/wow.png": "/static/media/wow.397167f9.png",
+    "static/media/wow.mp3": "/static/media/wow.7960067a.mp3",
+    "static/media/yes.mp3": "/static/media/yes.01f0e794.mp3",
+    "static/media/yes.png": "/static/media/yes.d3ff40c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.560b8e60.js",
+    "static/js/2.3bb0adda.chunk.js",
+    "static/css/main.46b67600.chunk.css",
+    "static/js/main.6f048644.chunk.js"
+  ]
+}
