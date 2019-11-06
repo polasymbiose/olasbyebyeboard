@@ -1,6 +1,5 @@
 .App {
   text-align: center;
-  background-color: #007dff;
 }
 
 .App-logo {
@@ -26,4 +25,18 @@
   justify-content: center;
   flex: 1;
   flex-wrap: wrap;
+}
+
+.foo {
+  margin: 80px 0 50px 0;
+
+}
+
+.App p {
+  font-size: 24px;
+}
+
+.App p span {
+  color: pink;
+  font-size: 24px;
 }

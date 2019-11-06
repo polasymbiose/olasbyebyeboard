@@ -13,9 +13,6 @@ function App() {
   const [active, setactive] = useState('')
   return (
     <div className="App">
-      <header className="App-header">
-        
-      </header>
       <div className="moji" >
         <Animoji src={'yes'} audio={new Audio(yes)} setactive={setactive} active={active} />
         <Animoji src={'lol'} audio={new Audio(lol)} setactive={setactive} active={active} />
@@ -25,6 +22,7 @@ function App() {
         <Animoji src={'wow'} audio={new Audio(wow)} setactive={setactive} active={active} />
         <Animoji src={'brainfuck'} audio={new Audio(brainfuck)} setactive={setactive} active={active} />
       </div>
+      <p className="foo">this project was created with <span>love</span></p>
     </div>
   );
 }
