@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/olasbyebyeboard/static/css/main.46b67600.chunk.css",
+    "main.js": "/olasbyebyeboard/static/js/main.dcc43192.chunk.js",
+    "main.js.map": "/olasbyebyeboard/static/js/main.dcc43192.chunk.js.map",
+    "runtime-main.js": "/olasbyebyeboard/static/js/runtime-main.25f61963.js",
+    "runtime-main.js.map": "/olasbyebyeboard/static/js/runtime-main.25f61963.js.map",
+    "static/js/2.3bb0adda.chunk.js": "/olasbyebyeboard/static/js/2.3bb0adda.chunk.js",
+    "static/js/2.3bb0adda.chunk.js.map": "/olasbyebyeboard/static/js/2.3bb0adda.chunk.js.map",
+    "index.html": "/olasbyebyeboard/index.html",
+    "precache-manifest.ac8a6ae8d3c44c8e462991dbeb60df4c.js": "/olasbyebyeboard/precache-manifest.ac8a6ae8d3c44c8e462991dbeb60df4c.js",
+    "service-worker.js": "/olasbyebyeboard/service-worker.js",
+    "static/css/main.46b67600.chunk.css.map": "/olasbyebyeboard/static/css/main.46b67600.chunk.css.map",
+    "static/media/boo.png": "/olasbyebyeboard/static/media/boo.02583e29.png",
+    "static/media/boo.mp3": "/olasbyebyeboard/static/media/boo.fa8147dc.mp3",
+    "static/media/brainfuck.png": "/olasbyebyeboard/static/media/brainfuck.89fb2704.png",
+    "static/media/brainfuck.mp3": "/olasbyebyeboard/static/media/brainfuck.950f5c28.mp3",
+    "static/media/lol.png": "/olasbyebyeboard/static/media/lol.ecb12f0d.png",
+    "static/media/lol.mp3": "/olasbyebyeboard/static/media/lol.f04333bc.mp3",
+    "static/media/love.mp3": "/olasbyebyeboard/static/media/love.19b9e153.mp3",
+    "static/media/love.png": "/olasbyebyeboard/static/media/love.95364617.png",
+    "static/media/thinking.png": "/olasbyebyeboard/static/media/thinking.69d2b71f.png",
+    "static/media/thinking.mp3": "/olasbyebyeboard/static/media/thinking.6fa45fe5.mp3",
+    "static/media/wow.png": "/olasbyebyeboard/static/media/wow.397167f9.png",
+    "static/media/wow.mp3": "/olasbyebyeboard/static/media/wow.7960067a.mp3",
+    "static/media/yes.mp3": "/olasbyebyeboard/static/media/yes.01f0e794.mp3",
+    "static/media/yes.png": "/olasbyebyeboard/static/media/yes.d3ff40c1.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.25f61963.js",
+    "static/js/2.3bb0adda.chunk.js",
+    "static/css/main.46b67600.chunk.css",
+    "static/js/main.dcc43192.chunk.js"
+  ]
+}
