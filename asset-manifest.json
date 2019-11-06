@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/olasbyebyeboard/static/css/main.dd4dbeb1.chunk.css",
-    "main.js": "/olasbyebyeboard/static/js/main.e3cfa47e.chunk.js",
-    "main.js.map": "/olasbyebyeboard/static/js/main.e3cfa47e.chunk.js.map",
+    "main.css": "/olasbyebyeboard/static/css/main.fee6e913.chunk.css",
+    "main.js": "/olasbyebyeboard/static/js/main.958d757c.chunk.js",
+    "main.js.map": "/olasbyebyeboard/static/js/main.958d757c.chunk.js.map",
     "runtime-main.js": "/olasbyebyeboard/static/js/runtime-main.25f61963.js",
     "runtime-main.js.map": "/olasbyebyeboard/static/js/runtime-main.25f61963.js.map",
     "static/js/2.3bb0adda.chunk.js": "/olasbyebyeboard/static/js/2.3bb0adda.chunk.js",
     "static/js/2.3bb0adda.chunk.js.map": "/olasbyebyeboard/static/js/2.3bb0adda.chunk.js.map",
     "index.html": "/olasbyebyeboard/index.html",
-    "precache-manifest.33c88bd209ffcf7da518f25bbb91c6cd.js": "/olasbyebyeboard/precache-manifest.33c88bd209ffcf7da518f25bbb91c6cd.js",
+    "precache-manifest.2062708d72e56b660681849b60fc16a6.js": "/olasbyebyeboard/precache-manifest.2062708d72e56b660681849b60fc16a6.js",
     "service-worker.js": "/olasbyebyeboard/service-worker.js",
-    "static/css/main.dd4dbeb1.chunk.css.map": "/olasbyebyeboard/static/css/main.dd4dbeb1.chunk.css.map",
+    "static/css/main.fee6e913.chunk.css.map": "/olasbyebyeboard/static/css/main.fee6e913.chunk.css.map",
     "static/media/boo.png": "/olasbyebyeboard/static/media/boo.02583e29.png",
     "static/media/boo.mp3": "/olasbyebyeboard/static/media/boo.fa8147dc.mp3",
     "static/media/brainfuck.png": "/olasbyebyeboard/static/media/brainfuck.89fb2704.png",
@@ -29,7 +29,7 @@
   "entrypoints": [
     "static/js/runtime-main.25f61963.js",
     "static/js/2.3bb0adda.chunk.js",
-    "static/css/main.dd4dbeb1.chunk.css",
-    "static/js/main.e3cfa47e.chunk.js"
+    "static/css/main.fee6e913.chunk.css",
+    "static/js/main.958d757c.chunk.js"
   ]
 }
