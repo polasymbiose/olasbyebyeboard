@@ -2,9 +2,10 @@ import React, { useState } from 'react'
 import { animated, useSpring } from 'react-spring'
 import './Animoji.css'
 
-function Animoji({ src, audio, setactive, active }) {
+function Animoji({ src }) {
   const [state, toggle] = useState(true)
   const [hover, sethover] = useState(false)
+  const audio = new Audio(require(`../../assets/${src}.mp3`))
   const { x } = useSpring({
     from: { x: 0 },
     x: state ? 1 : 0,
@@ -19,7 +20,6 @@ function Animoji({ src, audio, setactive, active }) {
   const handleClick = () => {
     audio.play()
     toggle(!state)
-    setactive(src)
   }
   return (
     <div>

@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/olasbyebyeboard/precache-manifest.ac8a6ae8d3c44c8e462991dbeb60df4c.js"
+  "/olasbyebyeboard/precache-manifest.2062708d72e56b660681849b60fc16a6.js"
 );
 
 self.addEventListener('message', (event) => {
