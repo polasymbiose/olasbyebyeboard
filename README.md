@@ -1,8 +1,5 @@
-This project was created with [love](https://github.com/facebook/create-react-app).
+### This project was created with love
 
-## Available Scripts
+check out the [demo](https://polasymbiose.github.io/olasbyebyeboard/)
 
-In the project directory, you can run:
-
-### `yarn start`
-
+yarn it an go
